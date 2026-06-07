@@ -55,9 +55,9 @@ For commercial-engine licensing or anything the [Additional Use Grant](LICENSE) 
 
 ## Trademarks
 
-"Open Terrain Engine" and "Open Terrain Studios" are trademarks of Open Terrain Studios. The BSL grants no trademark
+"Open Terrain Engine" and "Open Terrain Studios" are trademarks of Open Terrain Studios LLC. The BSL grants no trademark
 rights; building a game with the engine does not let you use our names or logos to brand or market your product.
 
 ---
 
-© 2026 Open Terrain Studios. Licensed under the Business Source License 1.1.
+© 2026 Open Terrain Studios LLC. Licensed under the Business Source License 1.1.

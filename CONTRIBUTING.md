@@ -39,7 +39,7 @@ the future; if we do, we'll update this document.
 
 If you include a code snippet in an issue to illustrate a bug or a suggestion, please keep it minimal. By
 posting any content in an issue or discussion (including code snippets, descriptions, or designs), **you
-grant Open Terrain Studios a perpetual, irrevocable, worldwide, royalty-free license to use, reproduce,
+grant Open Terrain Studios LLC a perpetual, irrevocable, worldwide, royalty-free license to use, reproduce,
 modify, and incorporate that content** into the Licensed Work and related materials, without obligation or
 attribution. If you can't grant that, please describe the issue in words instead of pasting code.
 
@@ -51,7 +51,7 @@ with you on a coordinated disclosure.
 
 ## Trademarks
 
-"Open Terrain Engine" and "Open Terrain Studios" are trademarks of Open Terrain Studios. Engaging with this
+"Open Terrain Engine" and "Open Terrain Studios" are trademarks of Open Terrain Studios LLC. Engaging with this
 project doesn't grant any right to use those names or logos. See the [README](README.md#trademarks) and the
 [LICENSE](LICENSE).
 

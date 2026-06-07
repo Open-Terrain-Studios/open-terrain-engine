@@ -7,7 +7,7 @@ server** — so any conformant AI assistant (or a human) can write, run, screens
 
 > **Source-available / Fair Source — *not* open source.** Open Terrain Engine is licensed under the
 > [Business Source License 1.1](LICENSE). You can read the source, learn from it, and **build and ship your own
-> games with it — including commercially**. You may **not** take the engine itself to market (resell it, host it, or
+> games with it — including commercially, free under $1M lifetime gross per title (a ~5% royalty applies above that)**. You may **not** take the engine itself to market (resell it, host it, or
 > ship a competing engine/SDK). Each released version automatically becomes **Apache-2.0** on its **Change Date** —
 > four years after that version is first made publicly available. See **[LICENSING.md](LICENSING.md)** for the
 > plain-English version.
@@ -45,12 +45,13 @@ Linux + Windows desktop, built on the SDL3 GPU API over Vulkan. Designed for Ste
 | You want to… | Allowed under the BSL? |
 |---|---|
 | Read, study, and modify the source | ✅ Yes |
-| Build a game with it and sell that game (ship the runtime inside it) | ✅ Yes |
+| Build a game and sell it — free under **$1M lifetime gross per title** (ship the runtime inside it) | ✅ Yes |
+| Keep selling a title **after it passes $1M** lifetime gross | 💲 Commercial license (~5% royalty) |
 | Use it at a company, internally | ✅ Yes |
 | Re-sell, re-host, or re-brand **the engine itself** / ship a competing engine or SDK | ❌ Not without a commercial license |
 | Use a 4-year-old released version under Apache-2.0 | ✅ Yes (automatic on the Change Date) |
 
-For commercial-engine licensing or anything the [Additional Use Grant](LICENSE) doesn't cover, contact
+For a title past the $1M royalty threshold, commercial-engine licensing, or anything the [Additional Use Grant](LICENSE) doesn't cover, contact
 **licensing@openterrain.studio**. Full detail: **[LICENSING.md](LICENSING.md)** · the binding terms: **[LICENSE](LICENSE)**.
 
 ## Trademarks
